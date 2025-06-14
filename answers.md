@@ -28,7 +28,7 @@ Website:
 Solidity, Javascript, Typescipt, Python, Rust, C, Java
    
 2. Write a function that takes a number and returns a list of its digits in an array.
-
+'''javascript
 const numToarray = (num) => {
     if (typeof num !== "number" || isNaN(num)) return []; //prevent Nan value
     num = Math.abs(num); // remove -ve value
