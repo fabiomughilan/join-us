@@ -26,7 +26,7 @@ Windows 11, VS Code, Cursor, Replit
 ### 1. Which all programming languages are installed on your system.
 
 - Solidity
-- JavaScript,
+- JavaScript
 - Typescript
 - Python
 - Rust
